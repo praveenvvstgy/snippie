@@ -37,4 +37,33 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 
 ## Cheat Sheet
 		
-
+* #pragma Mark - `mark`
+* CheckError - `checkerror`
+* Class Continuation - `continuation`
+* Core Data Fetch - `cdfetch`
+* Documents Directory Path - `documents`
+* ImageView - `imv`
+* Library Directory Path - `library`
+* Log Stack Trace - `stack`
+* MFMailComposeViewController Initialization & Delegate - `mailcomp`
+* NSCoding Protocol Methods - `nscoding`
+* NSFetchedResultsController - `frc`
+* NSFetchedResultsControllerDelegate - `frcd`
+* NSLocalizedString - `nsl`
+* Set Frame - `frame`
+* Shared Singleton - `singleton`
+* UICollectionViewDataSource - `cvds`
+* UIControlEventTouchUpInside - `tu`
+* UIPickerViewDataSource - `pds`
+* UIPickerViewDelegate - `pdel`
+* UITableViewDataSource - `tvds`
+* UITableViewDelegate - `tvdel`
+* UIViewController Lifecycle - `lifecycle`
+* XCT Assert Equals - `xae`
+* XCT Assert False - `xaf`
+* XCT Assert Nil - `xan`
+* XCT Assert Not Nil - `xann`
+* XCT Assert True - `xat`
+* __strong self - `strongself`
+* __weak self - `weakself`
+* dispatch_async Pattern for Background Processing - `async`
